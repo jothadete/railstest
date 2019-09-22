@@ -6,4 +6,7 @@ class PagesController < ApplicationController
   def linklist
   end
 
+  def vuetest01
+  end
+
 end
